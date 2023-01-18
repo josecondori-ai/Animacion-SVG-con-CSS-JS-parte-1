@@ -1,0 +1,54 @@
+html,
+body {
+    margin: 0;
+    padding: 0;
+    
+    background: #fffae3;
+    font-family: 'Abel', sans-serif;
+    
+}
+
+#header {
+    min-height: 90%;
+    background: url(../img/header.jpg) no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+.container {
+    max-width: 960px;
+   
+    margin: 0 auto;
+    height: 100vh;
+}
+
+
+
+#Logo {
+    padding: 10% 0 0 0;
+    width: 100%;
+}
+
+
+
+h2 {
+    font-size: 2em;
+}
+
+
+
+.wide {
+    float: left;
+    width: 60%;
+}
+
+#Nature {
+    width: 100%;
+}
+
+
+
+
+
